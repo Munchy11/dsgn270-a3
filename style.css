@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+article {
+  width: 20rem;
+  justify-content: center;
+}
+
+svg {
+  width: 20rem;
+ }
+
+.rectangleleft  {
+  fill:  #a4ab80;
+}
+.rectangleright {
+  fill: #a4ab80;
+}
+
+.window {
+ fill: #e2e2e2; 
+}
+.tentdoor {
+fill:  #e2e2e2;
+}
+.backgroundborder {
+  fill: none
+}
